@@ -9,7 +9,7 @@ To make this project happen, we need machine learning solutions that are not onl
 but also powerful enough to process large data fast, so I have used mini scale data (128 mb) 
 that I have processed with Spark on IBM Cloud Pak for Data.
 
-Medium Article: [HERE](https://poltitor.medium.com/lets-predicting-churn-with-pyspark-ml-52c69ac34d12)
+Please refer to this Medium post for details about this model: [HERE](https://poltitor.medium.com/lets-predicting-churn-with-pyspark-ml-52c69ac34d12)
 
 ### Table of Contents
 
